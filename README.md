@@ -1,4 +1,4 @@
-# eSeQueeLe
+# Analysis and Formalization of Typing in SQL Engines
 
 1. install the docker-desktop
 
