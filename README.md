@@ -2,11 +2,11 @@
 
 1. install the docker-desktop
 
-2. In the artifact folder, there is a folder named: dockers 
+2. there is a folder named: dockers 
 
-3. go to that folder and run : `docker-compose up -d`
+3. go to folder `dockers` and run : `docker-compose up -d`
 
-4. pull and run the DB using host NET : `docker pull wenjiaye/db:v1` and `docker run -it --net host --name db wenjiaye/db:v1 bash`
+4. pull and run the `db` image using host NET : `docker pull wenjiaye/db:v1` and `docker run -it --net host --name db wenjiaye/db:v1 bash`
 
 5. cd to home: `cd home` 
 
